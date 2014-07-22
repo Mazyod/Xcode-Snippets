@@ -9,5 +9,5 @@
 // IDECodeSnippetVersion: 0
 /*  CLASS DESCRIPTION:
  *  ==================
- *      <
+ *      <#description#>
  */
