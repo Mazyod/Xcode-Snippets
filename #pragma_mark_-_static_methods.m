@@ -1,5 +1,5 @@
 // #pragma mark - Static methods
-// Static methods mark
+// 
 //
 // IDECodeSnippetCompletionPrefix: markStatic
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
