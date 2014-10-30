@@ -16,5 +16,5 @@ public:
     virtual bool init(<#args-definition#>);
     
 private:
-    type
+    typedef <#superclass#> super;
 };
