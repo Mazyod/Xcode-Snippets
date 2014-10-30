@@ -15,4 +15,6 @@ public:
     static <#class#> *create(<#args-definition#>);
     virtual bool init(<#args-definition#>);
     
+private:
+    type
 };
