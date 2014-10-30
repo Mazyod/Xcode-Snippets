@@ -9,7 +9,6 @@
 // IDECodeSnippetVersion: 2
 class <#class#> : public <#superclass#>
 {
-    
 public:
     
     static <#class#> *create(<#args-definition#>);
