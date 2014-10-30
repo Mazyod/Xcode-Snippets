@@ -9,7 +9,7 @@
 // IDECodeSnippetVersion: 2
 <#class#> *<#class#>::create(<#args-definition#>)
 {
-    <#class#> *obj = new <#class#>();
+    auto obj = new <#class#>();
     obj->init(<#args#>);
     obj->autorelease();
     
@@ -18,7 +18,7 @@
 
 bool <#class#>::init(<#args-definition#>)
 {
-    if (!<#superclass#>::init(<#superargs#>))
+    if (!super::init(<#superargs#>))
     {
         return false;
     }
