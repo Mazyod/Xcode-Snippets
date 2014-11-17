@@ -1,4 +1,4 @@
-// Swift: Mark Action
+// swift:_mark_action
 // 
 //
 // IDECodeSnippetCompletionPrefix: _markAction
@@ -7,4 +7,5 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// Swift: Mark Action
     // MARK: - Action methods
