@@ -1,6 +1,7 @@
 // Swift: Mark Action
 // 
 //
+// IDECodeSnippetCompletionPrefix: _markAction
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: DA341E41-5BA9-4199-9D70-FEECF0449185
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
