@@ -1,4 +1,4 @@
-// KDAssets - Menut Item Declaration
+// 
 // 
 //
 // IDECodeSnippetCompletionPrefix: KDAssetsMenuItemImp
