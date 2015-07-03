@@ -1,4 +1,4 @@
-// Attribute Requires Super
+// clang: Attribute Requires Super
 // 
 //
 // IDECodeSnippetCompletionPrefix: __attribute__((objc_requires_super))
