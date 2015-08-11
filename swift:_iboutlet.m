@@ -1,7 +1,7 @@
 // Swift: IBOutlet
 // 
 //
-// IDECodeSnippetCompletionPrefix: _markIBOutlet
+// IDECodeSnippetCompletionPrefix: _IBOutlet
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 52D27283-FEA7-4260-B3A2-75C58A332C8C
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
